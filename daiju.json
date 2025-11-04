@@ -2,7 +2,7 @@
   "name": "DAIJU",
   "symbol": "DJ",
   "description": "THIS IS A DRILL",
-  "image": "https://raw.githubusercontent.com/<your-username>/daiju-token/main/daiju_logo.png",
+  "image": "https://raw.githubusercontent.com/soumen888/daiju-token/main/daiju_logo.png",
   "attributes": [
     { "trait_type": "Purpose", "value": "Drill Token" },
     { "trait_type": "Category", "value": "Utility" }
@@ -10,7 +10,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/<your-username>/daiju-token/main/daiju_logo.png",
+        "uri": "https://raw.githubusercontent.com/soumen888/daiju-token/main/daiju_logo.png",
         "type": "image/png"
       }
     ],
